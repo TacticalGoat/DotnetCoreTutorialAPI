@@ -1,0 +1,10 @@
+/home/arjun/projects/learn_dotnetcore/ToDo/bin/Debug/netcoreapp2.0/ToDo.deps.json
+/home/arjun/projects/learn_dotnetcore/ToDo/bin/Debug/netcoreapp2.0/ToDo.runtimeconfig.json
+/home/arjun/projects/learn_dotnetcore/ToDo/bin/Debug/netcoreapp2.0/ToDo.runtimeconfig.dev.json
+/home/arjun/projects/learn_dotnetcore/ToDo/bin/Debug/netcoreapp2.0/ToDo.dll
+/home/arjun/projects/learn_dotnetcore/ToDo/bin/Debug/netcoreapp2.0/ToDo.pdb
+/home/arjun/projects/learn_dotnetcore/ToDo/obj/Debug/netcoreapp2.0/ToDo.csproj.CoreCompileInputs.cache
+/home/arjun/projects/learn_dotnetcore/ToDo/obj/Debug/netcoreapp2.0/ToDo.AssemblyInfoInputs.cache
+/home/arjun/projects/learn_dotnetcore/ToDo/obj/Debug/netcoreapp2.0/ToDo.AssemblyInfo.cs
+/home/arjun/projects/learn_dotnetcore/ToDo/obj/Debug/netcoreapp2.0/ToDo.dll
+/home/arjun/projects/learn_dotnetcore/ToDo/obj/Debug/netcoreapp2.0/ToDo.pdb
